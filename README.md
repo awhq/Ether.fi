@@ -4,6 +4,8 @@ So you've heard whispers about DeFi going mainstream, right? Maybe you've been s
 
 Here's the deal: Ether.fi isn't trying to be your typical crypto platform that talks a big game about "revolutionary technology" while basically just being another place to park your coins. This platform actually does something interesting—it combines liquid staking, restaking infrastructure, and a real-world spending card into one ecosystem. Think of it as what would happen if your traditional bank account got a DeFi upgrade and started actually working for you.
 
+<img width="3115" height="1621" alt="image" src="https://github.com/user-attachments/assets/95282eac-ade9-49c1-93c8-f383bca7fe17" />
+
 ## What Makes Ether.fi Different from Every Other Staking Platform
 
 Walking into the DeFi space these days feels like being at a buffet where everything looks the same but has different names. Lido over here, Rocket Pool over there, and about fifty other protocols all promising to stake your ETH. So what's Ether.fi bringing to the table?
